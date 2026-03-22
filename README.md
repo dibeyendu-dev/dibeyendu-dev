@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Hi 👋, I'm Dibeyendu</h1>
-</p>
+<h1 align="center">Hi 👋, I'm Dibeyendu</h1>
 
 <h2 align="center">🚀 Frontend Developer | Building My Future in IT Sector 💻</h2>
 

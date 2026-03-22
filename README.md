@@ -1,9 +1,11 @@
-# Hi 👋, I'm Dibeyendu
+<p align="center">
+  <h1>Hi 👋, I'm Dibeyendu</h1>
+</p>
 
 <h2 align="center">🚀 Frontend Developer | Building My Future in IT Sector 💻</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+CSS+Expert+in+Progress;Learning+JavaScript;Future+Full+Stack+Developer;Building+Projects+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+CSS+Expert;Learning+JavaScript;Future+Full+Stack+Developer;Building+Projects+Everyday" />
 </p>
 
 <p align="center">

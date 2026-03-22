@@ -1,45 +1,64 @@
-<p align="center">
-  <h1>Hi 👋, I'm Dibeyendu</h1>
-</p>
+# Hi 👋, I'm Dibeyendu
 
-<h3 align="center">💻 Beginner Frontend Developer | Learning & Growing 🚀</h3>
+<h2 align="center">🚀 Frontend Developer | Building My Future in IT Sector 💻</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+CSS+Learner;Learning+JavaScript;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+CSS+Expert+in+Progress;Learning+JavaScript;Future+Full+Stack+Developer;Building+Projects+Everyday" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dibeyendu-dev&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🌱 Currently learning: **JavaScript**  
-- 🛠️ Working on: **Building Website**  
-- 📚 Practicing: **HTML & CSS Projects**  
-- 🎯 Goal: **Become a Full Stack Developer**  
-- 💡 **I love solving problems and learning new technologies**
+✨ I am a passionate beginner developer from India  
+💡 I love building clean, responsive, and user-friendly websites  
+📈 I am improving my coding skills every single day  
+
+- 🌱 Currently learning: **New Technologies Based On a WEB-Developer**
+- 🛠️ Building: **Several Website**
+- 🎯 Goal: **Become a Full Stack Developer**
+- 🔥 Dream: **Work as a professional developer**  
+
 ---
 
-### 🧠 Skills
+## 🧠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+<p align="center">
+  
+  🚧 Currently in progress <br><br>
+
+  <b>🔹 More projects coming soon...</b> 🚀
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dibeyendu-dev&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibeyendu-dev&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibeyendu-dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
-<p>
+<p align="center">
   <a href="https://instagram.com/dibeyendu18">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
   </a>
@@ -50,7 +69,14 @@
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
-✨ I am learning coding step by step and improving every day 💪  
-🔥 One day I will become a professional developer
+💻 Coding is not just learning, it's my passion  
+🔥 Every day I get better than yesterday  
+🚀 My journey has just started  
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</p>

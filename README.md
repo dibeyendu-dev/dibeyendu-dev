@@ -1,82 +1,138 @@
-<h1 align="center">Hi 👋, I'm Dibeyendu</h1>
+<h1 align="center">Hi 👋, I'm Dibeyendu Maity</h1>
 
-<h2 align="center">🚀 Frontend Developer | Building My Future in IT Sector 💻</h2>
+<h3 align="center">
+🚀 Aspiring Full Stack Developer | MERN Stack Learner | Open Source Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+CSS+Expert;Learning+JavaScript;Future+Full+Stack+Developer;Building+Projects+Everyday" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;HTML+%7C+CSS+%7C+JavaScript;Learning+React.js;Learning+Node.js+%26+Express.js;Exploring+MongoDB;Future+MERN+Stack+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dibeyendu-dev&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🚀 About Me
-
-✨ I am a passionate beginner developer from India  
-💡 I love building clean, responsive, and user-friendly websites  
-📈 I am improving my coding skills every single day  
-
-- 🌱 Currently learning: **New Technologies Based On a WEB-Developer**
-- 🛠️ Building: **Several Website**
-- 🎯 Goal: **Become a Full Stack Developer**
-- 🔥 Dream: **Work as a professional developer**  
-
----
-
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://komarev.com/ghpvc/?username=dibeyendu-dev&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
+
+- 🇮🇳 I'm from **India**
+- 🌱 Currently learning **MERN Stack Development**
+- 💻 Passionate about Web Development
+- 🚀 Love building modern, responsive and user-friendly websites
+- 📚 Improving my programming skills every day
+- 🤝 Open to collaboration on Web Development projects
+- 🎯 Goal: Become a Professional Full Stack Developer
+- ⚡ Fun Fact: *Consistency beats talent.*
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
-  
-  🚧 Currently in progress <br><br>
 
-  <b>🔹 More projects coming soon...</b> 🚀
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,vscode" />
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📖 Currently Learning
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dibeyendu-dev&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibeyendu-dev&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibeyendu-dev&layout=compact&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+
+</p>
+
+- ⚛️ React.js
+- 🟢 Node.js
+- 🚀 Express.js
+- 🍃 MongoDB
+- 🔥 MERN Stack Development
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dibeyendu-dev&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibeyendu-dev&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🌐 Connect with me
+# 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://instagram.com/dibeyendu18">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="https://facebook.com/dibeyendu18">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
-  </a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dibeyendu-dev&theme=github-dark-blue&hide_border=true"/>
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# 🏆 GitHub Trophies
 
-💻 Coding is not just learning, it's my passion  
-🔥 Every day I get better than yesterday  
-🚀 My journey has just started  
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dibeyendu-dev&theme=algolia&no-frame=true&column=4"/>
+
+</p>
 
 ---
 
+# 📈 Contribution Graph
+
 <p align="center">
-  ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dibeyendu-dev&theme=github-dark&hide_border=true"/>
+
 </p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/dibeyendu-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/dibeyendu18">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/dibeyendu18">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+> **"Code. Learn. Build. Repeat."**
+
+> **"Every expert was once a beginner."**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+🚀 **Keep Learning • Keep Building • Keep Growing**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=120&section=footer"/>
+
+</div>

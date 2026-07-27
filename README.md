@@ -13,7 +13,7 @@
 </p>
 
 ---
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 # 👨‍💻 About Me
 
 - 🇮🇳 I'm from **India**

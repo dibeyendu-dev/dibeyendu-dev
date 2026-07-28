@@ -80,6 +80,70 @@ Hi 👋 I'm Dibeyendu Maity
 
 ---
 
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs"/>
+
+</p>
+
+- ⚛️ React.js
+- 🚀 Node.js
+- 🌐 Express.js
+- 🍃 MongoDB
+- ⚡ REST API Development
+- 🔥 MERN Stack
+
+---
+<!-- =================================================== -->
+<!--                  TECH STACK                         -->
+<!-- =================================================== -->
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,vscode,npm,figma,postman"/>
+
+</p>
+
+---
+
+
+# 🚀 Featured Projects
+
+| 🚀 Project | 💻 Tech | 🔗 Status |
+|------------|----------|----------|
+| 🌐 Portfolio Website | HTML • CSS • JavaScript | ✅ Completed |
+| 🍔 Food Delivery Website | HTML • CSS • JavaScript | ✅ Completed |
+| 💪 Gym Website | HTML • CSS • JavaScript | ✅ Completed |
+| 🛍 E-Commerce Website | MERN Stack | 🚧 In Progress |
+| 🩺 Doctor Appointment System | MERN Stack | 🚧 In Progress |
+
+---
+
+# 💻 Development Environment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm,figma"/>
+
+</p>
+
+---
+
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dibeyendu-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -116,89 +180,6 @@ Hi 👋 I'm Dibeyendu Maity
 
 </p>
 
----
-<!-- =================================================== -->
-<!--                  TECH STACK                         -->
-<!-- =================================================== -->
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,vscode,npm,figma,postman"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs"/>
-
-</p>
-
-- ⚛️ React.js
-- 🚀 Node.js
-- 🌐 Express.js
-- 🍃 MongoDB
-- ⚡ REST API Development
-- 🔥 MERN Stack
-
----
-
-# 🚀 Featured Projects
-
-| 🚀 Project | 💻 Tech | 🔗 Status |
-|------------|----------|----------|
-| 🌐 Portfolio Website | HTML • CSS • JavaScript | ✅ Completed |
-| 🍔 Food Delivery Website | HTML • CSS • JavaScript | ✅ Completed |
-| 💪 Gym Website | HTML • CSS • JavaScript | ✅ Completed |
-| 🛍 E-Commerce Website | MERN Stack | 🚧 In Progress |
-| 🩺 Doctor Appointment System | MERN Stack | 🚧 In Progress |
-
----
-
-# 💻 Development Environment
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm,figma"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dibeyendu-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibeyendu-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dibeyendu-dev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dibeyendu-dev&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-
-</p>
 
 ---
 
@@ -223,18 +204,7 @@ Hi 👋 I'm Dibeyendu Maity
 - 🍃 Master MongoDB
 - 🔥 Build Real-World MERN Projects
 
----
-<!-- =================================================== -->
-<!--            GITHUB SUMMARY & PRODUCTIVITY            -->
-<!-- =================================================== -->
 
-# 📋 GitHub Profile Summary
-
-<p align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dibeyendu-dev&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -330,30 +300,6 @@ Hi 👋 I'm Dibeyendu Maity
 <!-- =================================================== -->
 <!--            EXTRA PREMIUM SECTION                    -->
 <!-- =================================================== -->
-
-# 📫 Contact Me
-
-<p align="center">
-
-<a href="mailto:dibeyendumaity@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/dibeyendu-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dibeyendu-maity">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/dibeyendu18">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 

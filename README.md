@@ -1,5 +1,5 @@
 <!-- =================================================== -->
-<!--                 PREMIUM HEADER                       -->
+                 PREMIUM HEADER                       
 <!-- =================================================== -->
 
 <p align="center">
@@ -16,7 +16,7 @@ Hi 👋 I'm Dibeyendu Maity
 
 <h3 align="center">
 
-🚀 Aspiring Full Stack Developer • MERN Stack Learner • Open Source Enthusiast
+🚀 Aspiring Full Stack Developer • MERN Stack Developer • Open Source Enthusiast
 
 </h3>
 
